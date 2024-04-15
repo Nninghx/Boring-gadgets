@@ -1,3 +1,4 @@
-Calculate pi-1.0.py-一个简单的计算圆周率的代码
-Fixed countdown.py-一个简单的固定倒计时
-Calculate the Pythagorean theorem.py-一个简单的计算勾股定理
+Calculate pi-1.0.py-一个简单的计算圆周率/
+Fixed countdown.py-一个简单的固定倒计时/
+Calculate the Pythagorean theorem.py-一个简单的计算勾股定理/
+Random line.py-一个简单的生成随机线/
