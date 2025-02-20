@@ -2,7 +2,9 @@ Calculate pi-1.0.py-一个简单的计算圆周率/项目运行所需要的库pi
 
 Fixed countdown.py-一个简单的固定倒计时/
 
-Calculate the Pythagorean theorem.py-一个简单的计算勾股定理/
+Calculate the Pythagorean theorem.py-一个简单的勾股定理计数器/
+
+![image](https://github.com/Nninghx/Boring-gadgets/blob/main/picture/Pythagorean%20counter.png)
 
 Random line.py-一个简单的生成随机线/项目运行所需要的库:pip install Pillow
 
